@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EssHamza
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript
+
 
 <!---
 EssHamza/EssHamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
