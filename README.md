@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EssHamza
-- 👀 I’m interested in web developpement
-- 🌱 I’m currently learning JavaScript
+- Hi, I’m @EssHamza
+- I’m interested in web developpement
+- I’m currently learning JavaScript
 
 
 <!---
