@@ -1,4 +1,4 @@
-- Hi, I’m @EssHamza
+- Hi, I’m Hamza Essaadi
 - I’m interested in web developpement
 - I’m currently learning JavaScript
 
