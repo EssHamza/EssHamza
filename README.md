@@ -1,15 +1,6 @@
 - Hi, I’m Hamza Essaadi
 - I’m interested in web developpement
-- I’m currently learning advanced JavaScript
--
--
--
--
--  ![Alt Text](https://res.cloudinary.com/net-ninja/image/upload/v1616074126/Net%20Ninja%20Pro/svg/icons/js-logo_gvosxg.svg)
-
-
-
-and React.js
+- I’m currently learning advanced JavaScript and React.js
 
 
 <!---
