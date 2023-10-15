@@ -1,6 +1,6 @@
 - Hi, I’m Hamza Essaadi
 - I’m interested in web developpement
-- I’m currently learning JavaScript
+- I’m currently learning advanced JavaScript and React.js
 
 
 <!---
