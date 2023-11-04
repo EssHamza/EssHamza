@@ -1,7 +1,7 @@
 - Hi, I’m Hamza Essaadi
 - I’m interested in web developpement
 - I’m currently learning advanced JavaScript and React.js
--<a href="[https://www.example.com](https://medium.com/@essaadihamza3)" target="_blank">blog posts</a>
+-[I write thing about the web ]([URL](https://medium.com/@essaadihamza3))
 
 
 - ![](https://komarev.com/ghpvc/?username=your-github-EssHamza)
