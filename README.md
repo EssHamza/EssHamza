@@ -1,7 +1,8 @@
 - Hi, I’m Hamza Essaadi
 - I’m interested in web developpement
 - I’m currently learning advanced JavaScript and React.js
-- I'm 20 years old
+-<a href="[https://www.example.com](https://medium.com/@essaadihamza3)" target="_blank">blog posts</a>
+
 
 - ![](https://komarev.com/ghpvc/?username=your-github-EssHamza)
 
