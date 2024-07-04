@@ -2,6 +2,7 @@
 - I’m interested in web developpement
 - I’m currently learning advanced JavaScript and React.js
 - [I write things about the web](https://medium.com/@essaadihamza3)
+- Feel free to contact me at essaadihamza3@gmail.com
 
 - ![](https://komarev.com/ghpvc/?username=your-github-EssHamza)
 
